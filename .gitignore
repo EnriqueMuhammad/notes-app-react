@@ -1,0 +1,3 @@
+notes-app-server/.env
+notes-app-server/node_modules
+notes-app-ui/node_modules
